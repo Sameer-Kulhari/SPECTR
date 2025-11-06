@@ -24,3 +24,16 @@ The ESP32 communicates with the User to recieve commands and then sends it to E2
   <img src="Images/Schematic.png" width="33%" />
  
 </p>
+
+### BOM :
+For Components refer to BOM.csv  
+
+|S.no    |     Item    |Price |
+|--------|-------------|------|
+|   1    |  Components | $22.0|
+|   2    |    PCB(2)   | $9.0 |
+|   3    |    3D model | $15.0|
+|   4    |    Misc     | $5.0 |
+|   5    |   Shipping  | $15.0|
+|--------|-------------|------|
+| Total  |             | $66.0| 
