@@ -26,7 +26,7 @@ The ESP32 communicates with the User to recieve commands and then sends it to E2
 </p>
 
 ### BOM :
-For Components refer to BOM.xlsv or [Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS0u_wBD8fDkHvSRRr_KRde90n5-BZcfkiBh4WUrxjNlD3TSKaYPmmlQxZtLkobWbwZy5x1wlqgQerP/pubhtml)  
+For Components refer to BOM.xlsx or [Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS0u_wBD8fDkHvSRRr_KRde90n5-BZcfkiBh4WUrxjNlD3TSKaYPmmlQxZtLkobWbwZy5x1wlqgQerP/pubhtml)  
 
 |S.no    |     Item    |Price |
 |--------|-------------|------|
