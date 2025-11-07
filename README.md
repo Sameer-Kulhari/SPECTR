@@ -32,8 +32,8 @@ For Components refer to BOM.csv
 |--------|-------------|------|
 |   1    |  Components | $22.0|
 |   2    |    PCB(2)   | $9.0 |
-|   3    |    3D model | $15.0|
+|   3    |    3D model | $2.0 |
 |   4    |    Misc     | $5.0 |
 |   5    |   Shipping  | $15.0|
 |--------|-------------|------|
-| Total  |             | $66.0| 
+| Total  |             | $53.0| 
